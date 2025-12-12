@@ -344,7 +344,7 @@
         </div>
 
         <div class="footer">
-            <p>&copy; 2024 Cytara AI. All rights reserved.</p>
+            <p>&copy; <span id="year"></span> Cytara AI. All rights reserved.</p>
         </div>
     </div>
 
@@ -379,6 +379,9 @@
         // Update countdown immediately and then every second
         updateCountdown();
         setInterval(updateCountdown, 1000);
+
+        // Set current year in footer
+        document.getElementById('year').textContent = new Date().getFullYear();
     </script>
 </body>
 </html>

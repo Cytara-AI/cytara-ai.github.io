@@ -1,0 +1,47 @@
+# Cytara
+
+> AI-native orchestration software for pharma manufacturers. Human-in-the-loop AI agents that generate documents, review documents for GxP/GMP compliance, and investigate deviations across Supply Chain, Manufacturing, Quality, and Commercial teams in Life Sciences.
+
+Cytara is built for biopharma quality, manufacturing, and regulatory teams. The flagship product, Cytara GxP Reviewer, performs context-aware compliance reviews against a customer's own SOPs, methods, and quality records — pulled directly from the customer's QMS, EDMS, and ERP — and emits traceable comments that cite the exact source passage establishing each requirement. Every output is decision-support for a qualified human reviewer; Cytara never asserts compliance on its own.
+
+## Product
+
+- [Cytara GxP Reviewer](https://cytara.ai/): System-tray application that reviews GxP documents in under a minute. Identifies what you're working on, retrieves the right supporting documents from your QMS/EDMS/ERP, and produces traceable comments with verifiable source citations and suggested corrections. Covers batch records, SOPs, deviations, CAPAs, validations, and regulatory submissions.
+
+## Outcomes
+
+- Reduce review cycle times by up to 75% through automated cross-referencing and error detection.
+- Accelerate time to market by shortening downstream review-dependent processes.
+- Reduce costly compliance mistakes by adding a high-accuracy AI safeguard alongside human reviewers.
+
+## How it works
+
+- Diagnose: Map deployment options against manufacturing needs and existing systems.
+- Integrate: Direct connection to DMS/QMS/ERP with pre-built connectors for Veeva, OpenText, and L7.
+- Configure: Tune to site-specific systems, templates, and procedures.
+
+## Privacy and security
+
+- Zero data retention: Cytara does not train on customer data; enforced deletion policies.
+- Enterprise security: SAML 2.0 SSO, MFA, tenant isolation, purpose-scoped service accounts.
+- Data minimization: Review Assistant runs on corporate-secured devices using least-privilege principles.
+- Encryption: TLS in transit, AES-256 at rest, full audit logging.
+
+## FAQ
+
+- How can I trust GxP Reviewer findings? Every comment is tied back to source material with traceable annotations and verifiable references the reviewer can confirm.
+- Does it replace human reviewers? No. It acts as a second pair of eyes for qualified reviewers, handling first-pass detection and routine work.
+- Can it work with our internal SOPs? Yes. When integrated with your QMS/DMS/ERP it automatically pulls the supporting documents needed and grounds comments in your versioned internal procedures.
+- How is Cytara deployed? As a secure, enterprise-grade SaaS platform that integrates with existing systems without infrastructure changes.
+
+## Company
+
+- [About Cytara](https://cytara.ai/about): Engineering-led team building the AI-native platform for life sciences. Co-founded by Samar Shanazarov (CEO) and Orkun Duman (CTO).
+- [Book a demo](https://cytara.ai/demo): Cytara partners with pharma and biotech companies to bring AI into high-impact workflows safely.
+- [Contact](https://cytara.ai/contact): hello@cytara.ai · +1 (302) 319-4291
+
+## Scope
+
+- In scope: Laboratory worksheets, batch records, SOPs, deviations, CAPAs, validations, regulatory submissions.
+- Out of scope: Computer Software Assurance/Verification, 21 CFR Part 11 system-of-record functionality. Cytara is decision-support, not a QMS or GxP system of record.
+

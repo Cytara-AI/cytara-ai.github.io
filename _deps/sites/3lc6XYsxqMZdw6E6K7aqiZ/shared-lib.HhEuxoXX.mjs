@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.TjgygFMs.mjs";function t(e,t){return{description:`AI-native enterprise orchestration software for Supply Chain, Manufacturing, Quality, and Commercial teams in Life Sciences.`,favicon:`/_deps/assets/Z8idJOTyxvnh4uWv3djF1zPegzc.png`,robots:`max-image-preview:large`,socialImage:`/_deps/assets/srscztpLKzciQxQNW6rqU8RXEnU.png`,title:`Cytara – AI-native orchestration for pharma manufacturing`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=shared-lib.HhEuxoXX.mjs.map
